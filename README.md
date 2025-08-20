@@ -15,8 +15,8 @@ You are required to write a script `server-stats.sh` that can analyze basic serv
 
 1. **Clone or copy the repository** (if using GitHub):
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone https://github.com/d1zblya/server-stats.git
+   cd server-stats
    ```
 
 2. Make the script executable:
